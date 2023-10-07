@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# Sample HelloWorld Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+This project is simply a "HelloWorld" project written in solidity. You can edit the String with the "set" function and display it with the "get" function.
